@@ -1,0 +1,1 @@
+# dotnet.futurum.rabbitmq.eventapiendpoint
